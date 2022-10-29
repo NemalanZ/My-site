@@ -60,6 +60,9 @@ hr{
 .hero-img{
     height: 370px;
     width: auto;
+    display: flex;
+    justify-content: center;
+    margin: auto;
 }
 
 .middle-container{
